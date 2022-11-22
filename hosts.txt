@@ -1,0 +1,323 @@
+# A Blocklist for blocking .io games
+# Very useful for School Scenarios or to avoid distractions
+# Code Maintained by Renz Hernandez (MrChezco1995/IAmPhantomNoah)
+# Feel free to contribute some sites to the list if you can!
+
+# io games
+0.0.0.0 agar.io
+0.0.0.0 flappyroyale.io
+0.0.0.0 slither.io
+0.0.0.0 diep.io
+0.0.0.0 tetr.io
+0.0.0.0 skribbl.io
+0.0.0.0 2048.io
+0.0.0.0 krunker.io
+0.0.0.0 starve.io
+0.0.0.0 cardgames.io
+0.0.0.0 venge.io
+0.0.0.0 gats.io
+0.0.0.0 brutal.io
+0.0.0.0 paper2.io
+0.0.0.0 paper-io.com
+0.0.0.0 warbot.io
+0.0.0.0 zombs.io
+0.0.0.0 wings.io
+0.0.0.0 hole.io
+0.0.0.0 mope.io
+0.0.0.0 lordz.io
+0.0.0.0 deeeep.io
+0.0.0.0 raid.land
+0.0.0.0 shapez.io
+0.0.0.0 litemint.io
+0.0.0.0 crowdedcity.io
+0.0.0.0 superhex.io
+0.0.0.0 stabfish.io
+0.0.0.0 moomoo.io
+0.0.0.0 evowars.io
+0.0.0.0 bois.io
+0.0.0.0 surviv.io
+0.0.0.0 craftnite.io
+0.0.0.0 zombsroyale.io
+0.0.0.0 snowball.io
+0.0.0.0 flyordie.io
+0.0.0.0 starblast.io
+0.0.0.0 antwar.io
+0.0.0.0 boxz.io
+0.0.0.0 lordz2.io
+0.0.0.0 killer.io
+0.0.0.0 brutalmania.io
+0.0.0.0 ducklings
+0.0.0.0 minigiants.io
+0.0.0.0 tyran.io
+0.0.0.0 devast.io
+0.0.0.0 braains.io
+0.0.0.0 castlesiege.io
+0.0.0.0 creatur.io
+0.0.0.0 buildroyale.io
+0.0.0.0 squadd.io
+0.0.0.0 krew.io
+0.0.0.0 shootup.io
+0.0.0.0 rugby.io
+0.0.0.0 defly.io
+0.0.0.0 bigmonsterz.io
+0.0.0.0 ninja.io
+0.0.0.0 aquapark.io
+0.0.0.0 oceanar.io
+0.0.0.0 kugeln.io
+0.0.0.0 warscrap.io
+0.0.0.0 gunzer.io
+0.0.0.0 blackhole.io
+0.0.0.0 snowwar.io
+0.0.0.0 robostorm.io
+0.0.0.0 nightpoint.io
+0.0.0.0 swordz.io
+0.0.0.0 tanksmith.io
+0.0.0.0 hordes.io
+0.0.0.0 yorg.io
+0.0.0.0 blocktanks.io
+0.0.0.0 foes.io
+0.0.0.0 noob.io
+0.0.0.0 drednot.io
+0.0.0.0 raaaaft.io
+0.0.0.0 poweline.io
+0.0.0.0 wormszone.io
+0.0.0.0 seadragons.io
+0.0.0.0 junon.io
+0.0.0.0 trapz.io
+0.0.0.0 crazysteve.io
+0.0.0.0 magicbombs.io
+0.0.0.0 wanderers.io
+0.0.0.0 stolk.io
+0.0.0.0 copter.io
+0.0.0.0 doblons.io
+0.0.0.0 relmz.io
+0.0.0.0 doomz.io
+0.0.0.0 dynast.io
+0.0.0.0 throwz.io
+0.0.0.0 witz.io
+0.0.0.0 spaceguard.io
+0.0.0.0 gunbox.io
+0.0.0.0 tileman.io
+0.0.0.0 slush.io
+0.0.0.0 traitors.io
+0.0.0.0 germs.io
+0.0.0.0 drawar.io
+0.0.0.0 doomed.io
+0.0.0.0 blastarena.io
+0.0.0.0 hexar.io
+0.0.0.0 gulper.io
+0.0.0.0 fightz.io
+0.0.0.0 aquar.io
+0.0.0.0 kize.io
+0.0.0.0 boas.io
+0.0.0.0 gifthunter2.io
+0.0.0.0 tricksplit.io
+0.0.0.0 limax.io
+0.0.0.0 battlefields.io
+0.0.0.0 tetrads.io
+0.0.0.0 bruh.io
+0.0.0.0 wilds.io
+0.0.0.0 miniroyale2.io
+0.0.0.0 gallons.io
+0.0.0.0 speedboats.io
+0.0.0.0 bist.io
+0.0.0.0 biters.io
+0.0.0.0 blable.io
+0.0.0.0 blobe.io
+0.0.0.0 blobie.io
+0.0.0.0 blockor.io
+0.0.0.0 blong.io
+0.0.0.0 boattle.io
+0.0.0.0 bombsgame.io
+0.0.0.0 bonk.io
+0.0.0.0 brutes.io
+0.0.0.0 bubblebee.io
+0.0.0.0 bumper.io
+0.0.0.0 cararena.io
+0.0.0.0 catac.io
+0.0.0.0 cavegame.io
+0.0.0.0 cellcraft.io
+0.0.0.0 cellix.io
+0.0.0.0 chompers.io
+0.0.0.0 circu.io
+0.0.0.0 clay.io
+0.0.0.0 connect.io
+0.0.0.0 crossy.io
+0.0.0.0 cursors.io
+0.0.0.0 curvefever.io
+0.0.0.0 curvefever2.io
+0.0.0.0 dodgeballs.io
+0.0.0.0 dogargame.io
+0.0.0.0 dotz.io
+0.0.0.0 dstruct.io
+0.0.0.0 driftin.io
+0.0.0.0 eatme.io
+0.0.0.0 either.io
+0.0.0.0 electoral.io
+0.0.0.0 elemantar.io
+0.0.0.0 elites.io
+0.0.0.0 evoworld.io
+0.0.0.0 facepunch.io
+0.0.0.0 voxiom.io
+0.0.0.0 farmers.io
+0.0.0.0 father.io
+0.0.0.0 feedy.io
+0.0.0.0 fightarena.io
+0.0.0.0 fisp.io
+0.0.0.0 flar.io
+0.0.0.0 frickinzombies.io
+0.0.0.0 generals.io
+0.0.0.0 globule.io
+0.0.0.0 goons.io
+0.0.0.0 gota.io
+0.0.0.0 gpop.io
+0.0.0.0 gravitygame.io
+0.0.0.0 gungame.io
+0.0.0.0 gunr.io
+0.0.0.0 hexagor.io
+0.0.0.0 hexasnakeonline.com
+0.0.0.0 hilly.io
+0.0.0.0 hops.io
+0.0.0.0 hopz.io
+0.0.0.0 hunt.io
+0.0.0.0 io.lol
+0.0.0.0 jellies.io
+0.0.0.0 jomp.io
+0.0.0.0 jukegame.io
+0.0.0.0 kartwars.io
+0.0.0.0 kingz.io
+0.0.0.0 knife.io
+0.0.0.0 landix.io
+0.0.0.0 lazardrive.io
+0.0.0.0 lazr.io
+0.0.0.0 leevz.io
+0.0.0.0 link.io
+0.0.0.0 littlebigsnake.io
+0.0.0.0 lolo.games
+0.0.0.0 looz.io
+0.0.0.0 losts.io
+0.0.0.0 lumen.io
+0.0.0.0 massacre.io
+0.0.0.0 massivematch.io
+0.0.0.0 match.io
+0.0.0.0 match2.io
+0.0.0.0 maze.io
+0.0.0.0 meduzzza.io
+0.0.0.0 minesweeper.io
+0.0.0.0 mobg.io
+0.0.0.0 mudwars.io
+0.0.0.0 myball.io
+0.0.0.0 myfrog.io
+0.0.0.0 mypuppet.io
+0.0.0.0 nafk.io
+0.0.0.0 narwhale.io
+0.0.0.0 nbk.io
+0.0.0.0 nightwalkers.io
+0.0.0.0 occup.io
+0.0.0.0 opka.io
+0.0.0.0 orn.io
+0.0.0.0 overmind.io
+0.0.0.0 pacman.io
+0.0.0.0 paper.io
+0.0.0.0 petridish.io
+0.0.0.0 pikan.io
+0.0.0.0 pikes.io
+0.0.0.0 pirac.io
+0.0.0.0 piranh.io
+0.0.0.0 planes.io
+0.0.0.0 potato.io
+0.0.0.0 ppep.io
+0.0.0.0 pung.io
+0.0.0.0 racegame.io
+0.0.0.0 rangersteve.io
+0.0.0.0 rops.io
+0.0.0.0 rubin.io
+0.0.0.0 sattelite.io
+0.0.0.0 scorpo.io
+0.0.0.0 sf.io
+0.0.0.0 share.io
+0.0.0.0 shark.io
+0.0.0.0 shellshock.io
+0.0.0.0 shipz.io
+0.0.0.0 shooter.io
+0.0.0.0 shooters.io
+0.0.0.0 sketchwar.io
+0.0.0.0 skyfight.io
+0.0.0.0 skyroyale.io
+0.0.0.0 sl4sh.io
+0.0.0.0 slain.io
+0.0.0.0 slice.io
+0.0.0.0 slimes.io
+0.0.0.0 slither3d.io
+0.0.0.0 smashers.io
+0.0.0.0 smashycars.io
+0.0.0.0 snack.io
+0.0.0.0 snail.io
+0.0.0.0 snakeblast.io
+0.0.0.0 snakepit.io
+0.0.0.0 snaker.io
+0.0.0.0 snix.io
+0.0.0.0 snowfight.io
+0.0.0.0 snowheroes.io
+0.0.0.0 space.io
+0.0.0.0 space1.io
+0.0.0.0 spaceships.io
+0.0.0.0 splashwars.io
+0.0.0.0 splix.io
+0.0.0.0 stomped.io
+0.0.0.0 superorbit.io
+0.0.0.0 supersnake.io
+0.0.0.0 tankar.io
+0.0.0.0 tankwars.io
+0.0.0.0 tanx.io
+0.0.0.0 tenk.io
+0.0.0.0 tenz.io
+0.0.0.0 terr.io
+0.0.0.0 territorial.io
+0.0.0.0 tiles.io
+0.0.0.0 tron.io
+0.0.0.0 twix.io
+0.0.0.0 vanar.io
+0.0.0.0 vertix.io
+0.0.0.0 voar.io
+0.0.0.0 voidark.io
+0.0.0.0 warcall.io
+0.0.0.0 wormate.io
+0.0.0.0 wormax.io
+0.0.0.0 writhe.io
+0.0.0.0 xess.io
+0.0.0.0 xgun.io
+0.0.0.0 xpilot.io
+0.0.0.0 zlap.io
+0.0.0.0 zlax.io
+0.0.0.0 zombiecraft.io
+0.0.0. zombs.io
+
+# io mirrors/providers/unblockers
+iogames.games
+gameforge.com
+allgames.io
+www.allgames.io
+iogames.onl
+iogames.space
+crazygames.com
+www.crazygames.com
+poki.com
+io-games.io
+yogr.io
+agame.com
+www.agame.com
+titotu.io
+kevin.games
+x1p.com
+io.agariotime.space
+iogames.army
+isiogames.com
+www.iogames.at 
+iogames.at
+ioschool.space
+iogames.uy
+iogames.space
+iospace.games
+iogames.live 
+onlinebrowser.games 
