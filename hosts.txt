@@ -291,7 +291,8 @@
 0.0.0.0 zlap.io
 0.0.0.0 zlax.io
 0.0.0.0 zombiecraft.io
-0.0.0. zombs.io
+0.0.0.0 zombs.io
+
 
 # io mirrors/providers/unblockers
 0.0.0.0 iogames.games
@@ -322,3 +323,4 @@
 0.0.0.0 iogames.live 
 0.0.0.0 onlinebrowser.games 
 0.0.0.0 iogameslist.net
+0.0.0.0 iogamesio.org
