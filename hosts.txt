@@ -346,3 +346,5 @@
 0.0.0.0 roblox-t4.cachefly.net
 0.0.0.0 roblox-t5.cachefly.net
 0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+
