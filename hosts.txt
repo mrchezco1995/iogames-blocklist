@@ -327,6 +327,8 @@
 0.0.0.0 iogames.world
 0.0.0.0 y8.com
 0.0.0.0 www.y8.com
+0.0.0.0 friv.com
+0.0.0.0 www.friv.com
 
 # Not IO but block anything roblox related 
 0.0.0.0 rbxcdn.com
