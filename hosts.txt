@@ -329,6 +329,15 @@
 0.0.0.0 www.y8.com
 0.0.0.0 friv.com
 0.0.0.0 www.friv.com
+0.0.0.0 www.frivz.com
+0.0.0.0 friv.cm
+0.0.0.0 www.friv.cm
+0.0.0.0 frivwtf.com
+0.0.0.0 friv.pro
+0.0.0.0 www.friv2021.com
+0.0.0.0 frivold.menu
+0.0.0.0 www.poki2.net
+
 
 # Not IO but block anything roblox related 
 0.0.0.0 rbxcdn.com
