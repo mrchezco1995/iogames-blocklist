@@ -359,3 +359,45 @@
 0.0.0.0 roblox.com
 0.0.0.0 www.roblox.com
 
+# Added Online Casino Sites to Blocklist. (PAGCOR-Approved sites)
+
+0.0.0.0 fastwin.ph
+0.0.0.0 www.inplay.ph
+0.0.0.0 egamescasino.ph
+0.0.0.0 www.msw.ph
+0.0.0.0 www.jadesportsbet.com
+0.0.0.0 www.gamezone88.com
+0.0.0.0 gamezone.ph
+0.0.0.0 gamezonebet.com
+0.0.0.0 www.arenaplus.ph
+0.0.0.0 www.s5.com
+0.0.0.0 www.crazywin.ph
+0.0.0.0 www.sportsplus.ph
+0.0.0.0 www.okbet.com
+0.0.0.0 bet88.ph
+0.0.0.0 www.buenas.ph
+0.0.0.0 www.gamexsports.com
+0.0.0.0 www.gamexsports.ph
+0.0.0.0 www.solidleisure.com
+0.0.0.0 winzir.ph
+0.0.0.0 fbmemotion.ph
+0.0.0.0 fairplay.ph
+0.0.0.0 www.sg8.casino
+0.0.0.0 www.filbet.com
+0.0.0.0 bigwin29.com
+0.0.0.0 bingoplus.ph
+0.0.0.0 bingoplus.com
+0.0.0.0 bingoplus.net
+0.0.0.0 www.solaireonlinecasino.com
+0.0.0.0 codliveshots.ph
+0.0.0.0 www.rwmanila.com
+0.0.0.0 www.casinoplus.com.ph
+0.0.0.0 www.fortunegatecasino.com
+0.0.0.0 www.casinofortunegate.com
+0.0.0.0 www.fgc88.com
+0.0.0.0 www.livebet.ph
+0.0.0.0 www.thunderbirdonlinecasino.com
+0.0.0.0 www.thunderbird-onlinecasino.com
+0.0.0.0 www.thunderbirdasia.com
+0.0.0.0 www.okadaonlinecasino.com
+
