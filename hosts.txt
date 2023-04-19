@@ -460,3 +460,13 @@
 0.0.0.0 phbet85.bet
 0.0.0.0 www.phbwin16.com
 0.0.0.0 www.bwinph.com
+
+# Known and Malicious Casino Sites
+
+0.0.0.0 phlwin.com.ph
+0.0.0.0 phlwin.com
+0.0.0.0 www.pesopeso.ph
+0.0.0.0 peso-peso.ph
+0.0.0.0 www.tayabet.com
+0.0.0.0 philucky.com
+0.0.0.0 www.mangowin.ph
