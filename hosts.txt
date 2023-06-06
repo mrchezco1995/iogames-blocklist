@@ -401,7 +401,7 @@
 0.0.0.0 www.thunderbirdasia.com
 0.0.0.0 www.okadaonlinecasino.com
 
-# Unknown/Malicious Casino Sites (delivered from SMS)
+# Unknown/Malicious Casino Sites (delivered from SMS) (Updated as of: 5/17/2023)
 
 0.0.0.0 www.w19.digital
 0.0.0.0 www.huer.shop
@@ -460,6 +460,22 @@
 0.0.0.0 phbet85.bet
 0.0.0.0 www.phbwin16.com
 0.0.0.0 www.bwinph.com
+0.0.0.0 www.b99y.pw
+0.0.0.0 www.b99z.pw
+0.0.0.0 www.jilicoin.com
+0.0.0.0 www.99vip.bet
+0.0.0.0 d9ii93.com
+0.0.0.0 taya365.org
+0.0.0.0 taya360.com
+0.0.0.0 taya361.com
+0.0.0.0 taya362.com
+0.0.0.0 taya364.com
+0.0.0.0 taya366.com
+0.0.0.0 taya368.com
+0.0.0.0 taya369.com
+0.0.0.0 taya363.com
+0.0.0.0 www.adfhg.xyz
+0.0.0.0 nf953.com
 
 # Known and Malicious Casino Sites
 
